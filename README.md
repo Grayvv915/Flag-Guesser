@@ -6,6 +6,9 @@
 
 ## Instalación
 
-- Descargar todos los archivos en una carpeta.
-- Cuando tengas todos los archivos instalados, ejecuta el archivo Flag Guesser.exe (el juego).
-- Listo para jugar.
+1. Descarga GIT (si no lo tienes aún).
+2. Cuando lo tengas instalado, ejecuta la terminal de windows.
+3. En la terminal de Windows, ejecuta el comando <git clone https://github.com/Grayvv915/Flag-Guesser.git>.
+4. Cuando se complete la acción, busca el archivo Flag Guesser en tu ordenador.
+5. Dentro de este, se encontrará una carpeta llamada FG y un ejecutable llamado Flag Guesser.exe con una bandera de España como icono. Ejecuta ese archivo.
+6. Listo, ya estás jugando.
