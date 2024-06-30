@@ -6,7 +6,7 @@
 
 ## Instalación
 
-1. Descarga GIT (si no lo tienes aún).
+1. Descarga GIT: https://git-scm.com/downloads (si no lo tienes aún).
 2. Cuando lo tengas instalado, ejecuta la terminal de windows.
 3. En la terminal de Windows, ejecuta el comando <git clone https://github.com/Grayvv915/Flag-Guesser.git>.
 4. Cuando se complete la acción, busca el archivo Flag Guesser en tu ordenador.
